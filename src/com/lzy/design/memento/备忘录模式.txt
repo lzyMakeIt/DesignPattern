@@ -1,0 +1,7 @@
+备忘录模式
+不破坏对象封装性的前提下，存储对象的某些状态，并方便恢复
+
+三个类:Memento、Originator、CareTaker
+Originator 即源对象
+Memento 即封装对象状态类
+CareTaker 即维护、保存状态对象的类
